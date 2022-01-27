@@ -15,9 +15,9 @@ Clone the repo, install dependiencies, then run "npm start". The User must have 
 ## Usage
 This is what it will look like on your device. 
 
-[Deployed Application]()
+[Deployed Application](https://bootcampt-budget-tracker-2021.herokuapp.com/)
 
-![Budget-Tracker]()
+![Budget-Tracker](./public/images/budgetTracker.png)
 
 ## Contributing
 University of Arizona contributed the Front and Backend code for this project. I added the service-worker.js, Manifest.json, and ibd.js. 
