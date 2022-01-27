@@ -15,9 +15,9 @@ Clone the repo, install dependiencies, then run "npm start". The User must have 
 ## Usage
 This is what it will look like on your device. 
 
-[Deployed Application](https://watch.screencastify.com/v/yb8FHnwqGjJqc88RLAVD)
+[Deployed Application]()
 
-![Budget-Tracker](./images/image.png)
+![Budget-Tracker]()
 
 ## Contributing
 University of Arizona contributed the Front and Backend code for this project. I added the service-worker.js, Manifest.json, and ibd.js. 
